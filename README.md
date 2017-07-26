@@ -1,2 +1,2 @@
 # FirstOne
-Mon tout premier repos pour me famliariser avec GitHub
+Mon tout premier repos pour me familiariser avec l'environnement GitHub.
